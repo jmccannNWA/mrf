@@ -26,11 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[Link](https://www.dropbox.com/s/sxu7z0uqdqpl1fu/bigtextfile.txt?dl=0)
+[Link](https://www.dropbox.com/s/sxu7z0uqdqpl1fu/bigtextfile.txt?dl=1)
 
-<a href="https://www.dropbox.com/s/sxu7z0uqdqpl1fu/bigtextfile.txt?dl=0" download>Download File</a>
+<a href="https://www.dropbox.com/s/sxu7z0uqdqpl1fu/bigtextfile.txt?dl=1" download>Download File</a>
 
-<a href="https://www.dropbox.com/s/sxu7z0uqdqpl1fu/bigtextfile.txt?dl=0" download="download">Download File</a>
+<a href="https://www.dropbox.com/s/sxu7z0uqdqpl1fu/bigtextfile.txt?dl=1">Download File</a>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
