@@ -28,7 +28,9 @@ Syntax highlighted code block
 
 [Link](https://www.dropbox.com/s/sxu7z0uqdqpl1fu/bigtextfile.txt?dl=0)
 
-<a href="https://www.dropbox.com/s/sxu7z0uqdqpl1fu/bigtextfile.txt?dl=0">Download File</a>
+<a href="https://www.dropbox.com/s/sxu7z0uqdqpl1fu/bigtextfile.txt?dl=0" download>Download File</a>
+
+<a href="https://www.dropbox.com/s/sxu7z0uqdqpl1fu/bigtextfile.txt?dl=0" download="download">Download File</a>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
